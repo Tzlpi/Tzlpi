@@ -12,7 +12,7 @@ Currently learning: C++
  <br> Duels minigame inspired by hypixel with full config support + MySQL integration </br>
  
  - 🏪 [**MineShop**](https://github.com/tzlpi/mineshop)
- <br> Coming Soon.
+ <br> C# Application and a Spigot plugin contatcting eachother through Web API.
  
  
 ## Contact me
