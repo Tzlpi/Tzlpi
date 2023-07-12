@@ -1,8 +1,8 @@
 # About me
 
-I am a 15 year old java developer from Israel
+I am a 17 year old Java developer from Israel
 
-I mainly do spigot but I also know C#, MySQL, Python, Unity
+I mainly do spigot but I also know C#, MySQL, Python, Unity, HTML, JS.
 
 Currently learning: C++
 
